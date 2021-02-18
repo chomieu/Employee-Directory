@@ -28,7 +28,7 @@ npm install
 ![Preview GIF](./preview.gif)
 
 ## Link
-<https://ancient-chamber-72146.herokuapp.com/>
+<https://chomieu.github.io/Employee-Directory/>
 
 ## Technologies
 <img src="https://d23wxovozhm1zu.cloudfront.net/uploads/technologies/logos/big/20/original/renuo_technology_react-large.png?v=63748570849" width="150" />
