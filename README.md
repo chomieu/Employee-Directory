@@ -31,7 +31,7 @@ npm install
 <https://ancient-chamber-72146.herokuapp.com/>
 
 ## Technologies
-<img src="https://i2.wp.com/www.blaze3.in/wp-content/uploads/2020/10/590-5903330_reactjs-logo-react-js-transparent-icon-hd-png.png?fit=860%2C328&ssl=1" width="150" />
+<img src="https://d23wxovozhm1zu.cloudfront.net/uploads/technologies/logos/big/20/original/renuo_technology_react-large.png?v=63748570849" width="150" />
 
 ## License
 [MIT](./LICENSE) License
