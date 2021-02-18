@@ -31,7 +31,7 @@ npm install
 <https://ancient-chamber-72146.herokuapp.com/>
 
 ## Technologies
-Built with [React](https://reactjs.org)
+[React](https://i.imgur.com/eyoiQHZ.png)
 
 ## License
 [MIT](./LICENSE) License
